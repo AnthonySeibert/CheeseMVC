@@ -1,0 +1,26 @@
+C:\Users\antho\OneDrive\Documents\Git\My Third MVC App\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\antho\OneDrive\Documents\Git\My Third MVC App\bin\Debug\net6.0\appsettings.json
+C:\Users\antho\OneDrive\Documents\Git\My Third MVC App\bin\Debug\net6.0\My Third MVC App.staticwebassets.runtime.json
+C:\Users\antho\OneDrive\Documents\Git\My Third MVC App\bin\Debug\net6.0\My Third MVC App.exe
+C:\Users\antho\OneDrive\Documents\Git\My Third MVC App\bin\Debug\net6.0\My Third MVC App.deps.json
+C:\Users\antho\OneDrive\Documents\Git\My Third MVC App\bin\Debug\net6.0\My Third MVC App.runtimeconfig.json
+C:\Users\antho\OneDrive\Documents\Git\My Third MVC App\bin\Debug\net6.0\My Third MVC App.dll
+C:\Users\antho\OneDrive\Documents\Git\My Third MVC App\bin\Debug\net6.0\ref\My Third MVC App.dll
+C:\Users\antho\OneDrive\Documents\Git\My Third MVC App\bin\Debug\net6.0\My Third MVC App.pdb
+C:\Users\antho\OneDrive\Documents\Git\My Third MVC App\obj\Debug\net6.0\My Third MVC App.csproj.AssemblyReference.cache
+C:\Users\antho\OneDrive\Documents\Git\My Third MVC App\obj\Debug\net6.0\My Third MVC App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documents\Git\My Third MVC App\obj\Debug\net6.0\My Third MVC App.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documents\Git\My Third MVC App\obj\Debug\net6.0\My Third MVC App.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documents\Git\My Third MVC App\obj\Debug\net6.0\My Third MVC App.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documents\Git\My Third MVC App\obj\Debug\net6.0\My Third MVC App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\antho\OneDrive\Documents\Git\My Third MVC App\obj\Debug\net6.0\My Third MVC App.RazorAssemblyInfo.cache
+C:\Users\antho\OneDrive\Documents\Git\My Third MVC App\obj\Debug\net6.0\My Third MVC App.RazorAssemblyInfo.cs
+C:\Users\antho\OneDrive\Documents\Git\My Third MVC App\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\antho\OneDrive\Documents\Git\My Third MVC App\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\antho\OneDrive\Documents\Git\My Third MVC App\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\antho\OneDrive\Documents\Git\My Third MVC App\obj\Debug\net6.0\scopedcss\bundle\My Third MVC App.styles.css
+C:\Users\antho\OneDrive\Documents\Git\My Third MVC App\obj\Debug\net6.0\scopedcss\projectbundle\My Third MVC App.bundle.scp.css
+C:\Users\antho\OneDrive\Documents\Git\My Third MVC App\obj\Debug\net6.0\My Third MVC App.dll
+C:\Users\antho\OneDrive\Documents\Git\My Third MVC App\obj\Debug\net6.0\ref\My Third MVC App.dll
+C:\Users\antho\OneDrive\Documents\Git\My Third MVC App\obj\Debug\net6.0\My Third MVC App.pdb
+C:\Users\antho\OneDrive\Documents\Git\My Third MVC App\obj\Debug\net6.0\My Third MVC App.genruntimeconfig.cache
